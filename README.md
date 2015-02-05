@@ -1,3 +1,4 @@
+
 TICKET QUOTA APP
 
 The ticketquota.app tracks what percentage of your daily and weekly ticket solve quota has been met.
